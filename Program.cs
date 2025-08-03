@@ -94,3 +94,21 @@ foreach (KeyValuePair<string, string> item in estados)
 {
     Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
 }
+Console.WriteLine("\n=== Removendo e alterando elementos do dicionário ===");
+estados.Remove("MG");
+estados["SP"] = "São Paulo - Capital";
+Console.WriteLine("Dicionário após remoção e alteração:");
+foreach (KeyValuePair<string, string> item in estados)
+{
+    Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
+}
+Console.WriteLine("\n=== Consultando elemento do dicionário ===");
+string chave = "BA";
+if (estados.ContainsKey(chave))
+{
+    Console.WriteLine($"\nEstado encontrado: {chave} - {estados[chave]}");
+}
+else
+{
+    Console.WriteLine($"\nEstado {chave} não encontrado no dicionário.");
+}
