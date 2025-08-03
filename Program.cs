@@ -20,7 +20,15 @@ try
         Console.WriteLine(linha);
     }
 }
+catch (FileNotFoundException ex)
+{
+    Console.WriteLine($"Ocorreu um erro na leitura do arquivo. Arquivo não encontrado: {ex.Message}");
+}
+catch (DirectoryNotFoundException ex)
+{
+    Console.WriteLine($"Ocorreu um erro na leitura do arquivo. Diretório não encontrado: {ex.Message}");
+}
 catch (Exception ex)
 {
-    Console.WriteLine($"Ocorreu um erro favor analisar o seguinte aspecto: {ex.Message}");
+    Console.WriteLine($"Ocorreu um erro na leitura do arquivo. Favor analisar o seguinte aspecto: {ex.Message}");
 }
