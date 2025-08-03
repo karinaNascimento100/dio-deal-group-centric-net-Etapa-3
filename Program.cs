@@ -36,3 +36,6 @@ finally
 {
     Console.WriteLine("Processamento finalizado.");
 }
+
+ExemploExcecao exemplo = new ExemploExcecao();
+exemplo.Metodo1();
