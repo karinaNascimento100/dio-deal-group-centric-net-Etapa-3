@@ -1,6 +1,8 @@
 ﻿using System.Net.NetworkInformation;
 using dio_deal_group_centric_net_Etapa_2.Models;
 
+
+Console.WriteLine("=== Apresentação de Pessoas e Curso ===");
 Pessoa p1 = new Pessoa { Nome = "Karina", Sobrenome = "Nascimento", Idade = 51 };
 p1.Apresentar();
 
@@ -12,6 +14,8 @@ cursoDeProgramacao.AdicionarAluno(p1);
 cursoDeProgramacao.AdicionarAluno(p2);
 cursoDeProgramacao.ListarAlunos();
 
+
+Console.WriteLine("\n=== Leitura de Arquivo com Tratamento de Exceções ===");
 try
 {
     string[] linhas = File.ReadAllLines("Models/Arquivos/arquivoLeitura.txt");
@@ -37,5 +41,26 @@ finally
     Console.WriteLine("Processamento finalizado.");
 }
 
+
+Console.WriteLine("\n=== Exemplo de Tratamento de Exceções Personalizadas ===");
 ExemploExcecao exemplo = new ExemploExcecao();
 exemplo.Metodo1();
+
+
+Console.WriteLine("\n=== Demonstração de Fila (Queue) ===");
+Queue<int> fila = new Queue<int>();
+fila.Enqueue(2);
+fila.Enqueue(4);
+fila.Enqueue(6);
+Console.WriteLine("Elementos da fila:");
+foreach (int item in fila)
+{
+    Console.WriteLine(item);
+}
+fila.Dequeue();
+
+Console.WriteLine("Fila após remoção do primeiro elemento:");
+foreach (int item in fila)
+{
+    Console.WriteLine(item);
+}
