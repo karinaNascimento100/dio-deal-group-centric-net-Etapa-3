@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dio-deal-group-centric-net-Etapa 2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3dc34a2c6b5dd27c41258e42a45d9a49100928d8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec7626ae46adb8441cc97fadc8bc3c0f4c2098e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("dio-deal-group-centric-net-Etapa 2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dio-deal-group-centric-net-Etapa 2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -32,3 +32,7 @@ catch (Exception ex)
 {
     Console.WriteLine($"Ocorreu um erro na leitura do arquivo. Favor analisar o seguinte aspecto: {ex.Message}");
 }
+finally
+{
+    Console.WriteLine("Processamento finalizado.");
+}
