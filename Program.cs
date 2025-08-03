@@ -64,3 +64,22 @@ foreach (int item in fila)
 {
     Console.WriteLine(item);
 }
+
+Console.WriteLine("\n=== Demonstração de Pilha (Stack) ===");
+Stack<int> pilha = new Stack<int>();
+pilha.Push(1);
+pilha.Push(3);
+pilha.Push(5);
+Console.WriteLine("\nElementos da pilha:");
+foreach (int item in pilha)
+{
+    Console.WriteLine(item);
+}
+
+pilha.Pop();
+
+Console.WriteLine("Pilha após remoção do último elemento:");
+foreach (int item in pilha)
+{
+    Console.WriteLine(item);
+}
