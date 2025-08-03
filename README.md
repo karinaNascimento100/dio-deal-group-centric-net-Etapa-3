@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # dio-deal-group-centric-net-Etapa-2
 
@@ -31,3 +32,7 @@ Projeto desenvolvido para praticar conceitos fundamentais do .NET, incluindo pro
 
 ## Autor
 Karina Nascimento
+=======
+# dio-deal-group-centric-net-Etapa-3
+DIO Bootcamp Deal Group AI Centric .Net Manipulando Valores C#
+>>>>>>> fa238b610366181aaa776ed2eabc7e50a1db66e7
