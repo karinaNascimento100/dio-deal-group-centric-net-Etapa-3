@@ -35,7 +35,7 @@ namespace dio_deal_group_centric_net_Etapa_2.Models
 
             for (int count = 0; count < Alunos.Count; count++)
             {
-                string texto = "N - " + (count + 1) + ": " + Alunos[count].NomeCompleto;
+                string texto = $"n - {(count + 1)}: {Alunos[count].NomeCompleto}";
                 Console.WriteLine(texto);
             }
 
