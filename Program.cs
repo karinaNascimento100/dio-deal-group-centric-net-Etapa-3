@@ -14,3 +14,9 @@ Curso cursoDeProgramacao = new Curso { Nome = "Curso de Programação" };
 cursoDeProgramacao.AdicionarAluno(p1);
 cursoDeProgramacao.AdicionarAluno(p2);
 cursoDeProgramacao.ListarAlunos();
+
+string[] linhas = File.ReadAllLines("Models/Arquivos/arquivoLeitura.txt");
+foreach (string linha in linhas)
+{
+    Console.WriteLine(linha);
+}
