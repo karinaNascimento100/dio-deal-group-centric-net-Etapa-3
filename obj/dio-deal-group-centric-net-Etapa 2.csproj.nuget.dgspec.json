@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Karina\\projetos\\dio-deal-group-centric-net-Etapa 2\\dio-deal-group-centric-net-Etapa 2.csproj": {}
+    "C:\\Users\\Karina\\projetos\\dio-deal-group-centric-net-Etapa-3\\dio-deal-group-centric-net-Etapa 2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Karina\\projetos\\dio-deal-group-centric-net-Etapa 2\\dio-deal-group-centric-net-Etapa 2.csproj": {
+    "C:\\Users\\Karina\\projetos\\dio-deal-group-centric-net-Etapa-3\\dio-deal-group-centric-net-Etapa 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Karina\\projetos\\dio-deal-group-centric-net-Etapa 2\\dio-deal-group-centric-net-Etapa 2.csproj",
+        "projectUniqueName": "C:\\Users\\Karina\\projetos\\dio-deal-group-centric-net-Etapa-3\\dio-deal-group-centric-net-Etapa 2.csproj",
         "projectName": "dio-deal-group-centric-net-Etapa 2",
-        "projectPath": "C:\\Users\\Karina\\projetos\\dio-deal-group-centric-net-Etapa 2\\dio-deal-group-centric-net-Etapa 2.csproj",
+        "projectPath": "C:\\Users\\Karina\\projetos\\dio-deal-group-centric-net-Etapa-3\\dio-deal-group-centric-net-Etapa 2.csproj",
         "packagesPath": "C:\\Users\\Karina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Karina\\projetos\\dio-deal-group-centric-net-Etapa 2\\obj\\",
+        "outputPath": "C:\\Users\\Karina\\projetos\\dio-deal-group-centric-net-Etapa-3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Karina\\AppData\\Roaming\\NuGet\\NuGet.Config"

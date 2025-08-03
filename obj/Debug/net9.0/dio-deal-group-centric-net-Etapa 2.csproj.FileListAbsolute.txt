@@ -13,3 +13,18 @@ C:\Users\Karina\projetos\dio-deal-group-centric-net-Etapa 2\obj\Debug\net9.0\dio
 C:\Users\Karina\projetos\dio-deal-group-centric-net-Etapa 2\obj\Debug\net9.0\dio-deal-group-centric-net-Etapa 2.genruntimeconfig.cache
 C:\Users\Karina\projetos\dio-deal-group-centric-net-Etapa 2\obj\Debug\net9.0\ref\dio-deal-group-centric-net-Etapa 2.dll
 C:\Users\Karina\projetos\dio-deal-group-centric-net-Etapa 2\obj\Debug\net9.0\dio-deal-group-centric-net-Etapa 2.sourcelink.json
+C:\Users\Karina\projetos\dio-deal-group-centric-net-Etapa-3\bin\Debug\net9.0\dio-deal-group-centric-net-Etapa 2.exe
+C:\Users\Karina\projetos\dio-deal-group-centric-net-Etapa-3\bin\Debug\net9.0\dio-deal-group-centric-net-Etapa 2.deps.json
+C:\Users\Karina\projetos\dio-deal-group-centric-net-Etapa-3\bin\Debug\net9.0\dio-deal-group-centric-net-Etapa 2.runtimeconfig.json
+C:\Users\Karina\projetos\dio-deal-group-centric-net-Etapa-3\bin\Debug\net9.0\dio-deal-group-centric-net-Etapa 2.dll
+C:\Users\Karina\projetos\dio-deal-group-centric-net-Etapa-3\bin\Debug\net9.0\dio-deal-group-centric-net-Etapa 2.pdb
+C:\Users\Karina\projetos\dio-deal-group-centric-net-Etapa-3\obj\Debug\net9.0\dio-deal-group-centric-net-Etapa 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karina\projetos\dio-deal-group-centric-net-Etapa-3\obj\Debug\net9.0\dio-deal-group-centric-net-Etapa 2.AssemblyInfoInputs.cache
+C:\Users\Karina\projetos\dio-deal-group-centric-net-Etapa-3\obj\Debug\net9.0\dio-deal-group-centric-net-Etapa 2.AssemblyInfo.cs
+C:\Users\Karina\projetos\dio-deal-group-centric-net-Etapa-3\obj\Debug\net9.0\dio-deal-group-centric-net-Etapa 2.csproj.CoreCompileInputs.cache
+C:\Users\Karina\projetos\dio-deal-group-centric-net-Etapa-3\obj\Debug\net9.0\dio-deal-group-centric-net-Etapa 2.sourcelink.json
+C:\Users\Karina\projetos\dio-deal-group-centric-net-Etapa-3\obj\Debug\net9.0\dio-deal-group-centric-net-Etapa 2.dll
+C:\Users\Karina\projetos\dio-deal-group-centric-net-Etapa-3\obj\Debug\net9.0\refint\dio-deal-group-centric-net-Etapa 2.dll
+C:\Users\Karina\projetos\dio-deal-group-centric-net-Etapa-3\obj\Debug\net9.0\dio-deal-group-centric-net-Etapa 2.pdb
+C:\Users\Karina\projetos\dio-deal-group-centric-net-Etapa-3\obj\Debug\net9.0\dio-deal-group-centric-net-Etapa 2.genruntimeconfig.cache
+C:\Users\Karina\projetos\dio-deal-group-centric-net-Etapa-3\obj\Debug\net9.0\ref\dio-deal-group-centric-net-Etapa 2.dll
