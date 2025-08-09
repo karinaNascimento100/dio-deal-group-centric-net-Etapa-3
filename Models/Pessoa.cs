@@ -17,6 +17,13 @@ namespace dio_deal_group_centric_net_Etapa_2.Models
             Idade = idade;
         }
 
+        public void Desconstrutor(out string nome, out string sobrenome, out int idade)
+        {
+            nome = Nome;
+            sobrenome = Sobrenome;
+            idade = Idade;
+        }
+
         private string _nome = string.Empty;
         private int _idade;
         public required string Nome
